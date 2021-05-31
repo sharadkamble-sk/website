@@ -1,2 +1,2 @@
 # website
-This is my first website using HTML,Bootstrap.
+This is my first webpage using HTML,Bootstrap.
